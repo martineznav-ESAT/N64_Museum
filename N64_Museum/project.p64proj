@@ -3,7 +3,7 @@
   "pathEmu": "..\\ares-v147\\ares.exe",
   "pathN64Inst": "",
   "romName": "N64_Museum",
-  "sceneIdLastOpened": 2,
+  "sceneIdLastOpened": 1,
   "sceneIdOnBoot": 1,
   "sceneIdOnReset": 1
 }

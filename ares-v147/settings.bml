@@ -75,7 +75,7 @@ Nintendo64
   ExpansionPak: true
   ControllerPakBankString: 32KiB (Default)
   Visible: true
-  Path: D:/Jonathan/ESAT/Git/N64_Museum/N64_Museum/
+  Path: D:/Jonathan/ESAT/Git/N64_Museum/_Official_P64/n64/examples/bigtex/
 GameBoyAdvance
   Player: false
   Visible: true
@@ -87,9 +87,9 @@ MegaDrive
   Visible: true
   Path
 Recent
-  Game-1: Nintendo 64;D:/Jonathan/ESAT/Git/N64_Museum/N64_Museum/N64_Museum.z64
-  Game-2: Nintendo 64;C:/Users/jonitest48/Downloads/gj25_cathode_quest.z64
-  Game-3
+  Game-1: Nintendo 64;D:/Jonathan/ESAT/Git/N64_Museum/_Official_P64/n64/examples/bigtex/bigtex.z64
+  Game-2: Nintendo 64;D:/Jonathan/ESAT/Git/N64_Museum/N64_Museum/N64_Museum.z64
+  Game-3: Nintendo 64;C:/Users/jonitest48/Downloads/gj25_cathode_quest.z64
   Game-4
   Game-5
   Game-6
