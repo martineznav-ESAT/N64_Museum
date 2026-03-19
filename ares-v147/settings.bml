@@ -30,13 +30,13 @@ Video
 Audio
   Driver: WASAPI
   Device: Default
-  Frequency: 96000
+  Frequency: 44100
   Latency: 0
   Exclusive: false
   Blocking: true
   Dynamic: false
   Mute: false
-  Volume: 1.0
+  Volume: 0.39
   Balance: 0.0
 Input
   Driver: SDL
@@ -88,7 +88,7 @@ MegaDrive
   Path
 Recent
   Game-1: Nintendo 64;D:/Jonathan/ESAT/Git/N64_Museum/N64_Museum/N64_Museum.z64
-  Game-2
+  Game-2: Nintendo 64;C:/Users/jonitest48/Downloads/gj25_cathode_quest.z64
   Game-3
   Game-4
   Game-5
@@ -97,31 +97,31 @@ Recent
   Game-8
   Game-9
 VirtualPad1
-  Pad.Up: ;;
-  Pad.Down: ;;
-  Pad.Left: ;;
-  Pad.Right: ;;
+  Pad.Up: 0x3331a502b/1/1/Lo;;
+  Pad.Down: 0x3331a502b/1/1/Hi;;
+  Pad.Left: 0x3331a502b/1/0/Lo;;
+  Pad.Right: 0x3331a502b/1/0/Hi;;
   Select: ;;
-  Start: ;;
-  A..South: ;;
+  Start: 0x3331a502b/3/7;;
+  A..South: 0x3331a502b/3/0;;
   B..East: ;;
-  X..West: ;;
+  X..West: 0x3331a502b/3/2;;
   Y..North: ;;
-  L-Bumper: ;;
-  R-Bumper: ;;
+  L-Bumper: 0x3331a502b/3/4;;
+  R-Bumper: 0x3331a502b/3/5;;
   L-Trigger: ;;
-  R-Trigger: ;;
+  R-Trigger: 0x3331a502b/3/3;;
   L-Stick..Click: ;;
   R-Stick..Click: ;;
-  L-Up: ;;
-  L-Down: ;;
-  L-Left: ;;
-  L-Right: ;;
-  R-Up: ;;
-  R-Down: ;;
-  R-Left: ;;
-  R-Right: ;;
-  Rumble: ;;
+  L-Up: 0x3331a502b/0/1/Lo;;
+  L-Down: 0x3331a502b/0/1/Hi;;
+  L-Left: 0x3331a502b/0/0/Lo;;
+  L-Right: 0x3331a502b/0/0/Hi;;
+  R-Up: 0x3331a502b/0/4/Hi;;
+  R-Down: 0x3331a502b/0/4/Lo;;
+  R-Left: 0x3331a502b/0/3/Lo;;
+  R-Right: 0x3331a502b/0/3/Hi;;
+  Rumble: 0x3331a502b/3/1;;
 VirtualMouse1
   X: ;;
   Y: ;;

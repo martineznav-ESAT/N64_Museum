@@ -1,0 +1,12 @@
+/build/
+dist/
+cmake-*
+.idea
+imgui.ini
+p64editor
+pyrite64
+.vscode
+*.pak
+pyrite64.exe
+*.dll
+preferences.json

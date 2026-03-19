@@ -1,0 +1,33 @@
+[submodule "vendored/SDL"]
+	path = vendored/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "vendored/imgui"]
+	path = vendored/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "vendored/SDL_image"]
+	path = vendored/SDL_image
+	url = https://github.com/libsdl-org/SDL_image.git
+[submodule "vendored/SHA256"]
+	path = vendored/SHA256
+	url = https://github.com/System-Glitch/SHA256.git
+[submodule "vendored/glm"]
+	path = vendored/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "vendored/ImGuizmo"]
+	path = vendored/ImGuizmo
+	url = https://github.com/CedricGuillemet/ImGuizmo.git
+[submodule "vendored/tiny3d"]
+	path = vendored/tiny3d
+	url = https://github.com/HailToDodongo/tiny3d.git
+[submodule "vendored/libdragon"]
+	path = vendored/libdragon
+	url = https://github.com/DragonMinded/libdragon.git
+[submodule "vendored/tiny-regex-c"]
+	path = vendored/tiny-regex-c
+	url = https://github.com/kokke/tiny-regex-c.git
+[submodule "vendored/ImNodeFlow"]
+	path = vendored/ImNodeFlow
+	url = https://github.com/HailToDodongo/ImNodeFlow.git
+[submodule "vendored/SDL_shadercross"]
+	path = vendored/SDL_shadercross
+	url = https://github.com/libsdl-org/SDL_shadercross.git
