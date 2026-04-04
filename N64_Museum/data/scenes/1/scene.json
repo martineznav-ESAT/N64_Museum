@@ -324,16 +324,25 @@
                 "setLighting": false,
                 "setPrim": false
               },
-              "model": 2612070539528230269
+              "model": 2724121436967242123
             },
             "id": 10,
-            "name": "Model (Animated)",
-            "uuid": 17455764159529748035
+            "name": "MarioModel",
+            "uuid": 13387786968863756009
+          },
+          {
+            "data": {
+              "args": {},
+              "script": 14976190700457048783
+            },
+            "id": 0,
+            "name": "S_MarioPlayer",
+            "uuid": 10436789313391611565
           }
         ],
         "enabled": true,
         "id": 4,
-        "name": "New Object",
+        "name": "MarioEsat",
         "pos": [
           0.0,
           0.0,
@@ -352,7 +361,7 @@
           1.0
         ],
         "selectable": true,
-        "uuid": 1193905556,
+        "uuid": 2516785190,
         "uuidPrefab": 0
       }
     ],
